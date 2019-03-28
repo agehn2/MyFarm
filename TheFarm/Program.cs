@@ -10,6 +10,8 @@ namespace TheFarm
     {
         static void Main(string[] args)
         {
+
+             new App().Run();
         }
     }
 }
